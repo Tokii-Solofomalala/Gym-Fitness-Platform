@@ -1,0 +1,115 @@
+html{
+    scroll-behavior: smooth;
+}
+.navigateur {
+    background-color:rgb(0, 128, 94) ;
+}
+
+.btn-Personnaliser {
+    background-color:rgb(248, 202, 117)
+}
+
+
+#Accueil{
+    margin-top : 80px;
+    
+}
+.container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    padding: 20px;
+  }
+  
+#Apropos .col-md-9 h2{
+    color:rgb(0, 128, 94) ;
+ }
+ #Apropos .col-md-9 p{
+    color:white ;
+    font-size: 16px;
+ }
+#Apropos{
+    margin-top : 50px;
+    background-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.897);
+    ;
+    opacity: 0,5;
+}
+
+#Coach{
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.897);
+    
+}
+#Coach h2{
+    color:rgb(0, 128, 94) ;
+    margin-top: 50px;
+    
+}
+
+#Services{
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.897);
+    height: 200px;
+}
+#Services p{    
+    margin-top: 50px;
+    font-size: 16px;
+    color: white;
+}
+#Services h2{    
+ 
+    font-size: 16px;
+    color: white;
+}
+#Contact{
+    margin-top: 50px;
+    background-color:rgb(0, 128, 94) ;
+    
+}
+
+.border{
+    border-left: solid;
+    border-color: black;
+}
+#Offres{
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+#reservations{
+    margin-top: 100px;
+    
+}
+.EmailControl{
+    margin-top: 30px;
+}
+.CoachControl{
+    margin-top: 30px;
+}
+.CoursControl{
+    margin-top: 30px;
+}
+.DateEtHeure{
+    margin-top: 30px;
+}
+.BoutonReserver{
+    margin-top: 30px;
+}
+.ControlContainer{
+    background-color: whitesmoke;
+    
+    
+}
+.control hr{
+    border-style: solid;
+    border-color: black;
+   
+}   
